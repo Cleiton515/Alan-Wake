@@ -1,0 +1,61 @@
+.nav-img{
+    width: 80px;
+    margin-left: 3rem;
+}
+
+header{
+    background-image: url(/img/header-img.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+
+.logo-card{
+    width: 130px;
+    margin-left: 2rem;
+}
+
+main{
+    background-image: url(/img/main-img.webp);
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+}
+
+.main-img{
+    width: 400px;
+    display: inline-block;
+    margin-top: 30.5rem;
+}
+
+article{
+    background-image: url(/img/article-img.jpg);
+    background-size: cover;
+    background-attachment: scroll;
+    background-repeat: no-repeat;
+    height: 500px;
+}
+
+article ul li img{
+    width: 430px;
+}
+
+.face-alan{
+    max-width: 760px;
+    height: 750px;
+}
+
+.livro-1,.livro-2{
+    width: 300px;
+}
+
+.redes{
+    background-color: rgb(145, 145, 145);
+    width: 50px;
+    border-radius: 50%;
+    padding: .3rem;
+}
+
+.classific{
+    width: 50px;
+}
